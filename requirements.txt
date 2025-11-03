@@ -1,0 +1,17 @@
+# Bibliotecas principais de análise e manipulação
+pandas
+numpy
+
+# Visualização de dados
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Leitura e gravação de arquivos Excel
+openpyxl
+
+# Utilitários opcionais
+jupyter
