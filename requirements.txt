@@ -1,0 +1,22 @@
+# Requisitos do Projeto - Incentivo às Práticas de Atividades Físicas por Idosos
+
+# Análise e manipulação de dados
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualização de dados
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+
+# Machine Learning
+scikit-learn==1.5.1
+
+# Aplicação interativa
+streamlit==1.38.0
+
+# Leitura de arquivos Excel
+openpyxl==3.1.5
+
+# Utilitários diversos
+faker==25.8.0
